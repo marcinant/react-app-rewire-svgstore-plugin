@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/marcinant/react-app-rewire-svgstore-plugin/issues"
   },
-  "homepage": "https://github.com/marcinant/react-app-rewire-svgstore-plugin#readme"
+  "homepage": "https://github.com/marcinant/react-app-rewire-svgstore-plugin#readme",
+  "dependencies": {
+    "webpack-svgstore-plugin": "^4.1.0"
+  }
 }
